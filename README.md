@@ -1,2 +1,3 @@
-# Planning
-Planning notes
+# ACM Planning
+
+Refer to the issues page
