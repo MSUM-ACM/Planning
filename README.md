@@ -3,6 +3,6 @@
 Refer to the wiki page
 + Home : presentation of the wiki
 + presentations     : speakers and social gathering announcement
-+ projects          : groups projects 
-+ competitions      : ACM MSUM competition for highschool students
++ projects          : group projects 
++ competitions      : ACM MSUM competition for highschool students and MSUM students programming competition preparation
 + workshops
