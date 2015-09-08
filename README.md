@@ -5,6 +5,7 @@ Refer to the wiki page
 + presentations     : speakers and social gathering announcement
 + projects          : group projects 
 + competitions      : ACM MSUM competition for highschool students and MSUM students 
+  - MSUM students
     - MISC
   - Fargo/Moorhead High School students
     - Moorhead High School
