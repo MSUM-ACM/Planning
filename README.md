@@ -1,10 +1,13 @@
 # ACM Planning
 
 Refer to the wiki page
-+ Home : presentation of the wiki
-+ presentations     : speakers and social gathering announcement
-+ projects          : group projects 
-+ competitions      : ACM MSUM competition for highschool students and MSUM students 
++ Home Wiki page
++ Events
+  - Welcome Pizza party - 09/17/15 ~05PM
+  - [HERE presentation] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes) - 10/22/15
++ Projects          : group projects 
+  - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
++ Competitions
   - MSUM students
     - MISC
   - Fargo/Moorhead High School students
@@ -13,9 +16,9 @@ Refer to the wiki page
     - Fargo North High School
     - Fargo South High School
     - Davies High School
-+ workshops
++ Workshops
  - Virtualization
  - Git / Github
  - IDE
  - Linux
-+ [HERE notes](https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes)
+
