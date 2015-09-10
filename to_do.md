@@ -1,0 +1,12 @@
+Todo list :
+-----------
+
++  select a date for ACM weekly meeting
++  select communication tool for officers and MSUM students
++  amending constitution to add WebMaster as official officer
++  create officers owner github group
++  select a date for first four workshops
++  select date for HERE presentation
++  list group projects wished and create suggestion box for students
++  ~~select date for first social gathering for presentation of the club and planning~~
++  replace old posters on corkboard
