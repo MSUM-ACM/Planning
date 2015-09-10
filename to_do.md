@@ -1,7 +1,7 @@
 Todo list :
 -----------
 
-+  select a date for ACM weekly meeting
++  ~~select a date for ACM weekly meeting~~
 +  select communication tool for officers and MSUM students
 +  amending constitution to add WebMaster as official officer
 +  create officers owner github group
