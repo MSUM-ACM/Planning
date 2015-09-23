@@ -1,6 +1,6 @@
 # ACM Planning (Fall 2015)
 
-+ Home Wiki page
++ [Home Wiki page] (https://github.com/MSUM-ACM/Planning/wiki)
 + Events
   - Welcome Pizza party - 09/17/15 ~05PM
   - [HERE presentation] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes) - 10/22/15
