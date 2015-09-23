@@ -16,6 +16,9 @@ Refer to the wiki page
     - Fargo North High School
     - Fargo South High School
     - Davies High School
+    - West Fargo High School
+    - Sheyenne High
+    - Community High
 + Workshops
  - Virtualization
  - Git / Github
