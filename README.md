@@ -8,7 +8,8 @@
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
 + Competitions
   - MSUM students
-    - MISC
+    - MICS (04/2016)
+    - Digit-Key (10/16/2015)
   - Fargo/Moorhead High School students
     - Moorhead High School
     - Park Christian School
