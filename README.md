@@ -1,6 +1,5 @@
-# ACM Planning
+# ACM Planning (Fall 2015)
 
-Refer to the wiki page
 + Home Wiki page
 + Events
   - Welcome Pizza party - 09/17/15 ~05PM
