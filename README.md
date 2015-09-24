@@ -4,6 +4,7 @@
 + Events
   - Welcome Pizza party - 09/17/15 ~05PM
   - [HERE presentation] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes) - 10/27/15
+  - [Workshop : Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization) - 10/01/2015 ~05PM
 + Projects          : group projects 
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
 + Competitions
