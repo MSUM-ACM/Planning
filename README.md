@@ -3,10 +3,10 @@
 + [Home Wiki page] (https://github.com/MSUM-ACM/Planning/wiki)
 + Events
   - Welcome Pizza party - 09/17/15 ~05PM
-  - [Workshop : Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization) - 10/01/2015 ~05PM
-  - [Workshop : Git / GitHub] (https://github.com/MSUM-ACM/Planning/wiki/GitHub) - 10/08/2015 ~05PM
-  - [Workshop : IDE] (https://github.com/MSUM-ACM/Planning/wiki/IDE) - 10/15/2015 ~05PM
-  - [Workshop : Linux] (https://github.com/MSUM-ACM/Planning/wiki/Linux) - 10/22/2015 ~05PM
+  - [Virtualization Workshop] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization) - 10/01/2015 ~05PM
+  - [Git / GitHub Workshop] (https://github.com/MSUM-ACM/Planning/wiki/GitHub) - 10/08/2015 ~05PM
+  - [IDE Workshop] (https://github.com/MSUM-ACM/Planning/wiki/IDE) - 10/15/2015 ~05PM
+  - [Linux Workshop] (https://github.com/MSUM-ACM/Planning/wiki/Linux) - 10/22/2015 ~05PM
   - [HERE presentation] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes) - 10/27/15
 + Projects          : group projects 
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
