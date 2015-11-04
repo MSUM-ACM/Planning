@@ -12,7 +12,7 @@
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
 + Competitions
   - MSUM students
-    - Digit-Key (10/16)
+    - Digi-Key (10/16)
     - NDSU ACM competition (10/31)
     - MICS (04/2016)
   - Fargo/Moorhead High School students
