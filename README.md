@@ -1,29 +1,14 @@
-# ACM Planning (Fall 2015)
+# ACM Planning (Spring 2016)
 
 + [Home Wiki page] (https://github.com/MSUM-ACM/Planning/wiki)
 + Events
-  - Welcome Pizza party - 09/17 ~05PM
-  - [Virtualization Workshop] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)- 10/01 ~05PM
-  - [Git / GitHub Workshop] (https://github.com/MSUM-ACM/Planning/wiki/GitHub) - 10/08 ~05PM
-  - [IDE Workshop] (https://github.com/MSUM-ACM/Planning/wiki/IDE) - 10/15 ~05PM
-  - [Linux Workshop] (https://github.com/MSUM-ACM/Planning/wiki/Linux) - 10/22 ~05PM
-  - [HERE presentation] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes) - 10/27
+  - Mock Interview preparation - 02/25 ~03:00PM --MA167
+  - Mock Interview - 03/03 ~03:00PM --BR151
+  - GIS project meeting - 03/09 ~05:00 --BR164
+  - Girls Code presentation/class
+  - Cluster project
 + Projects          : group projects 
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
-+ Competitions
-  - MSUM students
-    - Digi-Key (10/16)
-    - NDSU ACM competition (10/31)
-    - MICS (04/2016)
-  - Fargo/Moorhead High School students
-    - Moorhead High School
-    - Park Christian School
-    - Fargo North High School
-    - Fargo South High School
-    - Davies High School
-    - West Fargo High School
-    - Sheyenne High
-    - Community High
 + Workshops
  - [Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)
  - [Git / GitHub] (https://github.com/MSUM-ACM/Planning/wiki/GitHub)
