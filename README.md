@@ -9,8 +9,8 @@
   - Cluster project
 + Projects          : group projects 
   - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
+  - computer cluster project
 + Workshops
  - [Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)
  - [Git / GitHub] (https://github.com/MSUM-ACM/Planning/wiki/GitHub)
- - [IDE] (https://github.com/MSUM-ACM/Planning/wiki/IDE)
  - [Linux] (https://github.com/MSUM-ACM/Planning/wiki/Linux)
