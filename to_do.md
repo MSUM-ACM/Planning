@@ -1,9 +1,9 @@
 Todo list :
 -----------
 + register each officers
-+ amending constitution to add WebMaster as official officer 
-+ replace old posters on corkboard (ask F/M companies for donation)
++ amending constitution to add WebMaster as official officer
 + contact companies for presentation
+      - 
 + Contact students about MICS
 + cluster computers project
       - list members (registered as ACM members)
