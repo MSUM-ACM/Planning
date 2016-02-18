@@ -5,7 +5,12 @@ Todo list :
 + replace old posters on corkboard (ask F/M companies for donation)
 + contact companies for presentation
 + Contact students about MICS
-+ contact IT to acquire new computers for cluster
++ cluster computers project
+      - list members (registered as ACM members)
+      - checking materials characteristics  Bytespeed Dc45QB
+      - set meeting dates, communication and version control tools
+      - set computers (installing OS, setting privilege access, networking)
+      - design deep learning algorithms
 + prepare high school meeting and competition
       +   Call high schools and inquire about students' interest and preparedness
       +   Talk to admissions about aquiring MSUM t-shirts to give away
