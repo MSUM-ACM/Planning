@@ -26,7 +26,6 @@
   - Digikey presentation - MM/DD time --location
   - Myriad Mobile presentation - MM/DD time --location
 + Projects :
-  - 
   - <a href="https://github.com/MSUM-ACM/Planning/wiki/MSUM_ACM_website" target="_blank">MSUM ACM website projects</a>
   - <a href="https://github.com/MSUM-ACM/Planning/wiki/Artificial_Intelligence_projects" target="_blank">Artificial intelligence projects</a>
   - <a href="https://github.com/MSUM-ACM/Planning/wiki/Security_projects" target="_blank">System/Network Security</a>
