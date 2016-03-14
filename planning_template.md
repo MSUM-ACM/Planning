@@ -1,4 +1,5 @@
 # ACM Planning (semester year)
+[place/update content to README.md]
 
 + <a href="https://github.com/MSUM-ACM/Planning/wiki" target="_blank">Home Wiki page</a>
 + Events
