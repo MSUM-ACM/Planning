@@ -25,7 +25,7 @@
   - Video Game development introduction (in collaboration with Dragon Game Makers) - MM/DD time --location
   - Mock Interview preparation (Spring semester only) - MM/DD time --location
   - Mock Interview (Spring semester only) - MM/DD time --location
-  - HighSchool Computer programming Fair (Spring semester only) - MM/DD time --location
+  - High School Computer programming Fair (Fall semester only) - MM/DD time --location
   - Digikey presentation - MM/DD time --location
   - Myriad Mobile presentation - MM/DD time --location
 
