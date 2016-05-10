@@ -25,12 +25,21 @@
 ####Spring:
   - Artificial Intelligence introduction and projects <a href="https://docs.google.com/presentation/d/1haNIvZSul1JBctgMiGXlABkhB-mrWPmuuFeGKx2b9lE/edit?usp=sharing" target="_blank">presentation</a> - MM/DD time --location
   - GIS introduction and projects presentation - MM/DD time --location
+<<<<<<< HEAD
   - Cloud computing introduction and projects presentation - MM/DD time --location
   - Video game development introduction (in collaboration with Dragon Game Makers) - MM/DD time --location
   - <a href="mailto:wolterdi@mnstate.edu?Subject=Mock%20Interview" target="_blank">Mock Interview </a>
       - preparation (Spring semester only) - MM/DD time --location
       - Mock Interview (Spring semester only) - MM/DD time --location
   - Digi-key presentation - MM/DD time --location
+=======
+  - Cloud programming introduction and projects presentation - MM/DD time --location
+  - Video Game development introduction (in collaboration with Dragon Game Makers) - MM/DD time --location
+  - Mock Interview preparation (Spring semester only) - MM/DD time --location
+  - Mock Interview (Spring semester only) - MM/DD time --location
+  - HighSchool Computer programming Fair (Spring semester only) - MM/DD time --location
+  - Digikey presentation - MM/DD time --location
+>>>>>>> parent of 38a5234... Update planning_template.md
   - Myriad Mobile presentation - MM/DD time --location
 
 ### Projects :
