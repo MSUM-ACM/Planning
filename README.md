@@ -1,16 +1,32 @@
-# ACM Planning (Spring 2016)
+# MSUM ACM
 
-+ [Home Wiki page] (https://github.com/MSUM-ACM/Planning/wiki)
-+ Events
-  - Mock Interview preparation - 02/25 ~03:00PM --MA167
-  - Mock Interview - 03/03 ~03:00PM --BR151
-  - GIS project meeting - 03/09 ~05:00 --BR164
-  - Girls Code presentation/class
-  - Companies presentation
-+ Projects          : group projects 
-  - [HERE ] (https://github.com/MSUM-ACM/Planning/wiki/HERE-Project-Notes): mapping system project
-  - computer cluster project
++ Events Planning (Fall 2016)
+  - Welcome party - MSUM ACM presentation and officers election - 08/31 , 6pm @ BR163
+  - Virtualization Workshop - 09/07 , 6pm @ BR161
+  - Github Workshop - 09/14 , 6pm @ BR161
+  - Linux Workshop - 09/21 , 6pm @ BR161
+  - Website Project presentation - 09/28 , 6pm @ BR161
+  - (1) Project presentation - 10/05 , 6pm @ BR161
+  - (2) Project presentation - 10/12 , 6pm @ BR161
+  - (3) Project presentation - 10/29 , 6pm @ BR161
+  - (4) Project presentation - 11/02 , 6pm @ BR161
+  - (1) Company presentation - 11/09 , 6pm @ BR164
+  - big event ??? - 11/16
+  - Pizza party - 11/23 , 6pm @ BR163
+  - (2) Company presentation - 11/30 , 6pm @ BR164
+
++ Projects 
+  - MSUM ACM Website
+  - Artificial Intelligence
+  - Security
+  - ?
+  - ?
+
 + Workshops
  - [Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)
  - [Git / GitHub] (https://github.com/MSUM-ACM/Planning/wiki/GitHub)
  - [Linux] (https://github.com/MSUM-ACM/Planning/wiki/Linux)
+
++ Companies
+  - ?
+  - ?
