@@ -2,7 +2,7 @@
 
 + Events Planning (Fall 2016)
   - Officers Election - 08/31, 11:30pm @ Br163
-  - Welcome party - MSUM ACM presentation and officers election - 09/07 , 6pm @ BR163
+  - Welcome party - MSUM ACM presentation - 09/07 , 6pm @ BR163
   - Virtualization Workshop - 09/14 , 6pm @ BR161
   - Github Workshop - 09/21 , 6pm @ BR161
   - Linux Workshop - 09/28 , 6pm @ BR161
@@ -18,8 +18,8 @@
 
 + Projects 
   - MSUM ACM Website
-  - Artificial Intelligence
   - Security
+  - ?
   - ?
   - ?
 
