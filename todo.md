@@ -1,4 +1,3 @@
-1. register officers in ACM website
-2. amend constitution to officialize webmaster position
-3. create group project Github repositories
-4. update MSUM ACM information on Dragon central 
+1. create group project Github repositories
+2. update MSUM ACM information on Dragon central
+3. Talk about moving meeting time.
