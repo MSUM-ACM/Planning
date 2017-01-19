@@ -24,7 +24,7 @@
   
 + Events
   - Midwest Instructional and Computing Symposium (MICS) @ University of Wisconsin-La Crosse - April 7th-8th
-  - ?
+  - Midwest Undergraduate Data Analytics Competition (MUDAC) Winona State University - April ??
 
 + Workshops
  - [Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)
