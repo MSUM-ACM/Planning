@@ -5,7 +5,7 @@
   - Welcome Party - MSUM ACM presentation - January 25th 5pm @ BR163
     - What is ACM?
     - Ideas for the semester
-    - Community Outreach with Aisha
+    - Community Outreach with Aisha https://ignitecs.withgoogle.com/
     - Interesting articles
     - Fun problem
   - Microcontroller Workshop - 01/31, 4pm @ BR161 
