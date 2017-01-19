@@ -14,8 +14,8 @@
   - Website Project presentation - ? , 6pm @ BR161
   - (1) Project presentation - ? , 6pm @ BR161
   - Company / Internship / Research presentation - ? , 6pm @ BR164
-  - big event ??? - 11/16
-  - Pizza party - 11/23 , 6pm @ BR163
+  - big event ??? - ?
+  - Pizza party - ?, 6pm @ BR163
   - Company / Internship / Research presentation - ? , 6pm @ BR164
 
 + Projects 
