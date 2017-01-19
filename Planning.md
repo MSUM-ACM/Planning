@@ -5,6 +5,7 @@
   - Welcome Party - MSUM ACM presentation - January 25th 5pm @ BR163
     - What is ACM?
     - Ideas for the semester
+    - Community Outreach with Aisha
     - Interesting articles
     - Fun problem
   - Microcontroller Workshop - 01/31, 4pm @ BR161 
@@ -24,7 +25,7 @@
   
 + Events
   - Midwest Instructional and Computing Symposium (MICS) @ University of Wisconsin-La Crosse - April 7th-8th
-  - Midwest Undergraduate Data Analytics Competition (MUDAC) Winona State University - April ??
+  - Midwest Undergraduate Data Analytics Competition (MUDAC) Winona State University - April ?? http://www.mudac.org/
 
 + Workshops
  - [Virtualization] (https://github.com/MSUM-ACM/Planning/wiki/Virtualization)
