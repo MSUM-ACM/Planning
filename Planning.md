@@ -3,7 +3,7 @@
 + Events Planning (Spring 2016)
   - Officers Election - January 18th 5pm @ Br163
   - Welcome Party - MSUM ACM presentation - January 25th 5pm @ BR163
-    - What is ACM?
+    - What is ACM? : https://www.acm.org/binaries/content/assets/chapters/chapters.pdf
     - Ideas for the semester
     - Community Outreach with Aisha https://ignitecs.withgoogle.com/
     - Interesting articles
