@@ -7,8 +7,13 @@
     - Ideas for the semester
     - Community Outreach with Aisha https://ignitecs.withgoogle.com/
     - Interesting articles
-    - Fun problem
-  - Microcontroller Workshop - 01/31, 4pm @ BR161 
+    - Einstein problem
+  - Meeting #2 - 01/31, 4pm @ BR163
+    - Student Study Groups at Linux Lab
+    - Talk to incoming students
+    - Interesting articles
+    - Fractals challenge
+  - Microcontroller Workshop - ?, 4pm @ BR161 
   - Virtualization Workshop - ? , 6pm @ BR161
   - Github Workshop - ? , 6pm @ BR161
   - Linux Workshop - ? , 6pm @ BR161
